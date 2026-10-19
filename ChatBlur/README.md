@@ -19,6 +19,10 @@
 
 上表公开地址适用于当前仓库采用默认 GitHub Pages 域名、从仓库根目录发布的配置。公开访问以 GitHub Pages 部署成功为准；使用自定义域名时，改用对应地址。
 
+## 技术支持
+
+英文支持页面为 [support.html](support.html)，公开地址为 [ChatBlur Support](https://fireflower-march.github.io/app-privacy/ChatBlur/support.html)。该页面包含联系邮箱及截图打码、导入、导出、照片权限、设置和分享的常见问题，可用于 App Store Connect 的 **Support URL**。
+
 ## 部署
 
 这是可直接托管的静态 HTML，无需安装依赖或执行构建。五个页面共用本地 `styles.css`，可切换语言，支持手机、深色模式及打印。页面没有 JavaScript、远程字体、分析工具或广告。
